@@ -175,4 +175,5 @@ int main(){
     r.updateRide(1,50,60,2);
     cout<<r.closeRide(1)<<endl;
     return 0;
+    
 }
