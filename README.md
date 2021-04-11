@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivamHere
 - 👀 I’m interested in C++, MERN FullStack and Machine Learning using Python.
-- 🌱 I’m currently learning Full Stack and LLD Implementations in Cpp.
+- 🌱 I’m currently learning Full Stack.
 - 📫 How to reach me - tshivam216@gmail.com, https://www.linkedin.com/in/shivamnits/
 
 <!---
