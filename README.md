@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShivamHere
 - 👀 I’m interested in C++, MERN FullStack and Machine Learning using Python.
 - 🌱 I’m currently learning Full Stack.
-- 📫 How to reach me - shivamtiwari.co.in
+- 📫 How to reach me - https://shivamtiwari.co.in/
 
 <!---
 ShivamHere/ShivamHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
