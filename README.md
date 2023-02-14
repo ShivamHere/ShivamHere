@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivamHere
-- 👀 I’m interested in C++, MERN FullStack and Machine Learning using Python.
-- 🌱 I’m currently learning Full Stack.
+- 👀 I’m a FullStack Developer.
+- 🌱 I’m currently interested in System Design.
 - 📫 My Website - https://shivamtiwari.co.in/
 
 <!---
